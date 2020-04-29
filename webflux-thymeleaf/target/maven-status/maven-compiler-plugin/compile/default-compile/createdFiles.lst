@@ -1,0 +1,5 @@
+com\mkyong\reactive\repository\MovieRepository.class
+com\mkyong\reactive\controller\MovieController.class
+com\mkyong\reactive\MovieWebApplication.class
+com\mkyong\reactive\repository\ReactiveMovieRepository.class
+com\mkyong\reactive\Movie.class
